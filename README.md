@@ -2,9 +2,9 @@
 Selected assignments from MOOCs
 
 ## DAT210x Programming with Python for Data Science  
-###Module 6 \ Assignment 4
+### Module 6 \ Assignment 4
 
-__bold__SVC:
+__bold__ SVC:
 ![alt text](https://github.com/Asav7/Course-Materials/blob/master/assignment_4_files/svc.png)
 Results:  
 5000 Iterations Training Time:  5.397268295288086  
@@ -12,7 +12,7 @@ Results:
 High-Dimensionality Score:  86.885  
 Max 2D Score:  93.443  
 
-__bold__KNeighbors Results:
+__bold__ KNeighbors Results:
 ![alt text](https://github.com/Asav7/Course-Materials/blob/master/assignment_4_files/kneighbors.png)
 Results:  
 5000 Iterations Training Time:  3.0252504348754883  
@@ -20,7 +20,7 @@ Results:
 High-Dimensionality Score:  83.607  
 Max 2D Score:  90.164
 
-__bold__Decision Tree Classifier Results:
+__bold__ Decision Tree Classifier Results:
 ![alt text](https://github.com/Asav7/Course-Materials/blob/master/assignment_4_files/decision_tree_classifier.png)
 Results:  
 5000 Iterations Training Time:  3.9179515838623047  
