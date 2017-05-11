@@ -1,7 +1,7 @@
 ## Course-Materials
 Selected assignments from MOOCs
 
-### DAT210x Programming with Python for Data Science  
+### DAT210x Programming with Python for Data Science
 #### Module 6 \ Assignment 4
 
 __SVC:__  
